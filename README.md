@@ -14,8 +14,8 @@ Change the input file and output file name in script
 Step 4 : 
 run command: python script.py
 
-Step 5:
+Step 5 :
 Find the output file containing links
 
-Additional Information
+Additional Information : 
 You can run this script on same output file with new exported chat and links already present in the output file would not be copied again.
