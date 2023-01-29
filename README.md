@@ -1,5 +1,5 @@
 # WAScrapeYoutubeLinks
-Scrape YouTube/music links in exported chats from Whatsapp<br><br>
+Scrape YouTube/music links in exported chats from Whatsapp or any other application<br><br>
 
 **Step 1 :**<br>
 Export chat from Whatsapp without media and unzip the file.<br>
