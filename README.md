@@ -1,6 +1,7 @@
 # WAScrapeYoutubeLinks
 Scrape YouTube/music links in exported chats from Whatsapp
 
+
 Step 1 :
 Export chat from Whatsapp without media and unzip the file.
 
@@ -15,3 +16,6 @@ run command: python script.py
 
 Step 5:
 Find the output file containing links
+
+Additional Information
+You can run this script on same output file with new exported chat and links already present in the output file would not be copied again.
